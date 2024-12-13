@@ -10,3 +10,4 @@ Dans ce projet on découvre comment travailler avec Git et GitHub
 - Et bien *PLUS*
 
 ## On apprend à réenvoyer les fichiers vers GitHub !
+Comme ceci.
