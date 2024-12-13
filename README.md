@@ -8,3 +8,5 @@ Dans ce projet on découvre comment travailler avec Git et GitHub
 - Création de repos GitHub
 - Travail collaboratif
 - Et bien *PLUS*
+
+## On apprend à réenvoyer les fichiers vers GitHub !
